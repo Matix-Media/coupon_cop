@@ -9,7 +9,7 @@ for help.
 
 **Create new coupon**  
 ```> coupon_cop new_coupon <discount>```  
-Creates a new coupon. Write your discout in the filed `<discount>`.
+Creates a new coupon. Write your discout in the field `<discount>`.
 
 **Check for a coupon**  
 ```> coupon_cop check_coupon <data type (id/code)> <id/code>```  
